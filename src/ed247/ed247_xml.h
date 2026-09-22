@@ -28,6 +28,7 @@
 #include <string>
 #include <vector>
 #include <memory>
+#include <limits>
 
 // Prevent include of libxml2 header
 typedef struct _xmlNode *xmlNodePtr;
